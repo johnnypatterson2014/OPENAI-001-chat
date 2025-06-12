@@ -12,7 +12,7 @@
     "@apideck/components": "^0.12.21",
     "fs": "^0.0.1-security",
     "next": "15.3.3",
-    "openai": "^3.2.1",
+    "openai": "^3.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "winston": "^3.17.0",
